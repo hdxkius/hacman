@@ -1,0 +1,1 @@
+to start the game, simply run the jar file..
